@@ -22,7 +22,7 @@ window.addEventListener('load', ()=> {
         // pc.addTrack(track, stream);
         // }
         selfVideo.srcObject = stream;
-        statusPlaceholder.innerText = "Connected with yourself :(";
+        statusPlaceholder.innerText = "Connected with yourself";
 
     } catch(err) {
         statusPlaceholder.innerText = err;
