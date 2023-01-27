@@ -1,5 +1,5 @@
 {
-  "name": "strangerchat",
+  "name": "strangerchat01",
   "version": "1.0.0",
   "description": "Let's connect with strangers on the internet",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ea37/StrangerChat.git"
+    "url": "git+https://github.com/Ea37/strangerchat01"
   },
   "keywords": [
     "strangerchat"
@@ -17,9 +17,9 @@
   "author": "Abhijith E A",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ea37/StrangerChat/issues"
+    "url": "https://github.com/Ea37/strangerchat01/issues"
   },
-  "homepage": "https://github.com/Ea37/StrangerChat#readme",
+  "homepage": "https://github.com/Ea37/strangerchat01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
