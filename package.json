@@ -1,0 +1,30 @@
+{
+  "name": "strangerchat",
+  "version": "1.0.0",
+  "description": "Let's connect with strangers on the internet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ea37/StrangerChat.git"
+  },
+  "keywords": [
+    "strangerchat"
+  ],
+  "author": "Abhijith E A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ea37/StrangerChat/issues"
+  },
+  "homepage": "https://github.com/Ea37/StrangerChat#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
